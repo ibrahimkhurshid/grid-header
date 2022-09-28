@@ -1,0 +1,29 @@
+.header-container{
+  background-color: #24292F;
+  height: 62px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header{
+  flex: 0 0 100%;
+  background-color: bisque;
+  display: flex;
+}
+
+.header-section1{
+  flex: 0 0 100%;
+  background-color: blue;
+  display: flex;
+}
+/* 
+.logo{
+  width: 50px;
+  height: 50px;
+} */
+
+.header-section2{
+  background-color: red;
+}
